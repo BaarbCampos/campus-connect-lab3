@@ -1,0 +1,34 @@
+[
+  {
+    "id": "evt-01",
+    "title": "Campus Welcome Meetup",
+    "date": "2026-11-12",
+    "time": "13:00",
+    "location": "Student Hub",
+    "description": "Meet students and explore campus clubs."
+  },
+  {
+    "id": "evt-02",
+    "title": "Mobile App Workshop",
+    "date": "2026-11-13",
+    "time": "14:00",
+    "location": "Computing Lab 2",
+    "description": "Explore ideas for student mobile apps."
+  },
+  {
+    "id": "evt-03",
+    "title": "Careers Networking",
+    "date": "2026-11-16",
+    "time": "12:30",
+    "location": "Main Hall",
+    "description": "Chat with graduates about career paths."
+  },
+  {
+    "id": "evt-04",
+    "title": "Campus Quiz Night",
+    "date": "2026-11-18",
+    "time": "18:00",
+    "location": "Student Hub",
+    "description": "Join a team for a friendly general quiz."
+  }
+]

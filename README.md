@@ -1,5 +1,5 @@
 # Campus Connect – Events & Persistent Storage
-
+https://github.com/BaarbCampos/campus-connect-lab3
 ## Student Information
 
 - **Name:** Barbara Campos
@@ -134,7 +134,7 @@ The `screenshots` folder contains evidence of the main application features.
 
 The following screenshots should be included:
 
-
+0. ` 00-events-list.png` – Events List.
 1. `01-search-results.png` – Search results.
 2. `02-no-search-results.png` – Message shown when there are no matching events.
 3. `03-two-saved-favourites.png` – Two saved favourites after refreshing.
